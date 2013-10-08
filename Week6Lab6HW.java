@@ -91,3 +91,5 @@ public class Week6Lab6HW {public static void main(String args[])	{
 											}
 
 }
+
+//Good.  exactGames should be named GamesToWin.  And I need the GUI/Dialog.
