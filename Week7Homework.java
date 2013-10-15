@@ -85,3 +85,5 @@ public class Week7Homework
 		System.out.println("Good Bye.");
 	}
 }
+
+// Good
