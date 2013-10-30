@@ -4,8 +4,8 @@ public class DriverLab1 {
 		
 		Dice myDice = new Dice();
 		
-		myDice.Throw();
-		myDice.value();
+		System.out.println(myDice.Throw());
+		System.out.println(myDice.value());
 
 }
 }

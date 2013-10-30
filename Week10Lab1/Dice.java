@@ -6,16 +6,16 @@ public class Dice {
 	
 	private int m_val;
 	
-	public void Throw(){
+	public int Throw(){
 		Random generator = new Random();
         int num = generator.nextInt(6) + 1;
         m_val = num;
         
-        System.out.println(m_val);
+        return m_val;
 	}
 	
-	public void value(){
-		System.out.println(m_val);
+	public int value(){
+		return m_val;
 	}
 	
 
