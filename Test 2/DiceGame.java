@@ -55,4 +55,4 @@ userNum = input.nextInt();
 	
 	
 
-
+//you missed 1. Inheritance,  2. Overriding, 3. Overloading
